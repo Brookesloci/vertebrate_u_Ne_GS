@@ -6,7 +6,7 @@
 
 ## Data Description
 
-The primary dataset and phylogenetic tree are from Bergeron et al. (2023). Additional data, including census population estimates, were compiled from the PanTheria database, the IUCN Red List, and published literature.
+The primary dataset and phylogenetic tree are from Bergeron et al. (2023). Census population estimates were compiled from the PanTheria database, the IUCN Red List, and published literature.
 
 ## Code
 
