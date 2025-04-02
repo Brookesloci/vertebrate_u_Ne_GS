@@ -3,17 +3,10 @@
 **Authors:** Brooke Weinstein and Scott William Roy
 **Journal:** submitted to Molecular Biology and Evolution
 
-## Repository Contents
-
-This repository contains:
-
-* `data/`: The datasets used for the analysis.
-* `code/`: R scripts used for statistical analysis and generating figures.
-* `results/`: Key results and figures from the study.
 
 ## Data Description
 
-The primary dataset is from Bergeron et al. (2023). Additional data, including census population estimates, were compiled from the PanTheria database, the IUCN Red List, and published literature.
+The primary dataset and phylogenetic tree are from Bergeron et al. (2023). Additional data, including census population estimates, were compiled from the PanTheria database, the IUCN Red List, and published literature.
 
 ## Code
 
