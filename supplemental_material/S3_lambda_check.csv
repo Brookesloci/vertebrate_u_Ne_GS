@@ -1,0 +1,9 @@
+trait,𝝺,p-value,linear regression,𝝺,p-value
+genome size (GS),1,6.30E-36,GS ~ Ne PSMC,1,<0.0001
+Ne PSMC,0.448,0.021,Ne PSMC ~ Nc,0.472,0.1168
+Nc,7.42E-05,1,GS ~ Nc,1,<0.0001
+u,7.42E-05,1,GS ~ u,1,<0.0001
+Ne u,7.42E-05,1,GS ~ Ne * u,1,<0.0001
+Ne/Nc,7.42E-05,1,Ne/Nc ~ u,-0.11,0.289
+π,0.981,7.55E-05,Ne/Nc ~ Nc,0.472,0.117
+,,,𝞹 ~ Nc,0.971,<0.0001
