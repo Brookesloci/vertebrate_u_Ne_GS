@@ -1,7 +1,7 @@
 # Vertebrate mutation rates and genome sizes provide no evidence for the drift-barrier hypothesis and deepen Lewontin’s paradox
 
 **Authors:** Brooke Weinstein and Scott William Roy
-**Journal:** submitted to Molecular Biology and Evolution
+**Journal:** submitted to 
 
 
 ## Data Description
